@@ -20,6 +20,10 @@ public class mvTool_1to1 {
 
         ////test2
 
+        ///test3
+
+        String test3="";
+
         String filePath;
         while ((filePath = bufferedReader.readLine()) != null) {
             String org_path = filePath.split(" ")[0];
